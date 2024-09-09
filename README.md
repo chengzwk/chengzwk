@@ -1,8 +1,8 @@
-# Hi, I'm <Cheng>! 👋
+# Hi, I'm Cheng! 👋
 
 Data Scientist | PhD in Computational Physics | Specializing in Data Analysis, Machine Learning & Data-Driven Solutions
 
-![<chengzwk>'s Stats](https://github-readme-stats.vercel.app/api?username=<chengzwk>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![chengzwk's Stats](https://github-readme-stats.vercel.app/api?username=chengzwk&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
@@ -16,7 +16,7 @@ After years of training in physics and space science research, I was thrilled to
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py,pycharm,sklearnm,mysql,anaconda,matlab,git,gitlab,vim,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pycharm,sklearn,mysql,anaconda,matlab,git,gitlab,vim,latex)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
