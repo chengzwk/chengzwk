@@ -1,7 +1,37 @@
-## Hi there 👋
+# Hi, I'm <Cheng>! 👋
+
+Data Scientist | PhD in Computational Physics | Specializing in Data Analysis, Machine Learning & Data-Driven Solutions
+
+![<chengzwk>'s Stats](https://github-readme-stats.vercel.app/api?username=<chengzwk>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+## 🚀 About Me
+
+From exploring ionospheric plasma, to Dark Matter, to vehicle GPS data, no matter what the object of my study is, my driving force has always been a passion for learning and building new skills to solve real-world problems.
+ 
+After years of training in physics and space science research, I was thrilled to put my skills to use in the new direction of data science!
+
+## My Publications
+- [Fully ab-initio all-electron calculation of dark matter--electron scattering in crystals with evaluation of systematic uncertainties](https://arxiv.org/abs/2306.14944)
+- [QCDark Code](https://github.com/asingal14/QCDark)
+
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=py,pycharm,sklearnm,mysql,anaconda,matlab,git,gitlab,vim,latex)](https://skillicons.dev)
+
+## 🌱 Currently Exploring
+
+  - 🚀 Expanding my data science skills: enhancing expertise in data science with advanced techniques and tools to complement my existing knowledge.
+  - Diving into Java to develop a strong foundation in this versatile programming language.
+
+## 📬 Get in Touch
+
+- [LinkedIn](www.linkedin.com/in/zhencheng)
+
+Thanks for stopping by! Let's connect and dive into the dynamic world of data, uncovering insights and solving complex challenges together. 🚀
+
+
 
 <!--
-**chengzwk/chengzwk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
