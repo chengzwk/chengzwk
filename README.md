@@ -2,8 +2,6 @@
 
 Data Scientist | PhD in Computational Physics | Specializing in Data Analysis, Machine Learning & Data-Driven Solutions
 
-![chengzwk's Stats](https://github-readme-stats.vercel.app/api?username=chengzwk&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## 🚀 About Me
 
 From exploring ionospheric plasma, to Dark Matter, to vehicle GPS data, no matter what the object of my study is, my driving force has always been a passion for learning and building new skills to solve real-world problems.
