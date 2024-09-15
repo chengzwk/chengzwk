@@ -8,10 +8,12 @@ From exploring ionospheric plasma, to Dark Matter, to vehicle GPS data, no matte
  
 After years of training in physics and space science research, I was thrilled to put my skills to use in the new direction of data science!
 
-## My Publications
-- [Fully ab-initio all-electron calculation of dark matter--electron scattering in crystals with evaluation of systematic uncertainties](https://arxiv.org/abs/2306.14944)
-- [QCDark Code](https://github.com/asingal14/QCDark)
+## Publications
+- Fully ab-initio all-electron calculation of dark matter--electron scattering in crystals with evaluation of systematic uncertainties ([article link](https://arxiv.org/abs/2306.14944)|[QCDark code link](https://github.com/asingal14/QCDark))
 
+## Projects
+- [QCDark](https://github.com/asingal14/QCDark)
+- [Analysis of taxi GPS data in Porto](https://github.com/chengzwk/Porto-taxi)
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,pycharm,sklearn,mysql,anaconda,matlab,git,gitlab,vim,latex)](https://skillicons.dev)
