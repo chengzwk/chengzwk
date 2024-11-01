@@ -34,7 +34,7 @@ Data Scientist | PhD in Computational Physics | Specializing in Data Analysis, M
 
 - Connect with me on [LinkedIn](www.linkedin.com/in/zhencheng)
 
-Thanks for stopping by! Let's connect and dive into the dynamic world of data, uncovering insights and solving complex challenges together. 🚀
+Thanks for stopping by! Let's connect and explore the dynamic world of data together. 🚀
 
 
 
