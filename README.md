@@ -1,15 +1,13 @@
-# Hi, I'm Cheng! 👋
+## Hi, I'm Cheng! 👋
 
 Data Scientist | PhD in Computational Physics | Specializing in Data Analysis, Machine Learning & Data-Driven Solutions
 
 ## 🚀 About Me
 
-From exploring ionospheric plasma, to Dark Matter, to vehicle GPS data, no matter what the object of my study is, my driving force has always been a passion for learning and building new skills to solve real-world problems.
- 
-After years of training in physics and space science research, I was thrilled to put my skills to use in the new direction of data science!
-
-## Publications
-- Fully ab-initio all-electron calculation of dark matter--electron scattering in crystals with evaluation of systematic uncertainties ([article link](https://arxiv.org/abs/2306.14944) | [QCDark code link](https://github.com/asingal14/QCDark))
+- 👩‍💻 Currently working on the Google Data Analytics certificate on Coursera
+- Ph.D. in computational physics | Stony Brook University, C. N. Yang Institute for Theoretical Physics
+- I enjoy math, programming and data science!
+- Check out my projects
 
 ## Projects
 - [QCDark](https://github.com/asingal14/QCDark)
@@ -17,6 +15,15 @@ After years of training in physics and space science research, I was thrilled to
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,pycharm,sklearn,mysql,anaconda,matlab,git,gitlab,vim,latex)](https://skillicons.dev)
+
+
+
+## Publications
+- Fully ab-initio all-electron calculation of dark matter--electron scattering in crystals with evaluation of systematic uncertainties ([article link](https://arxiv.org/abs/2306.14944) | [QCDark code link](https://github.com/asingal14/QCDark))
+
+
+
+
 
 ## 🌱 Currently Exploring
 
