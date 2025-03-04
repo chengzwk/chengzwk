@@ -21,7 +21,9 @@ Data Scientist | PhD in Computational Physics | AI & Deep Learning for Geospatia
 
   - 🌱 Expanding my data science skills set
     - recently completed the Deep Learning Specialization by DeepLearning.AI
-    - integrated colab, dagshub, and mlflow into my development work flow
+    - exploring computer vision techinques, especially U-Net for segmentation
+    - learning geospatial data processing techinques
+    - integrated Google colab, dagshub, and mlflow into my development work flow
   - Diving into Java, data structure & algorithms
 
 ## 📖 Publications
