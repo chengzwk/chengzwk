@@ -1,18 +1,18 @@
 ## Hi, I'm Cheng! 👋
 
-Data Scientist | PhD in Computational Physics | Specializing in Data Analysis, Machine Learning & Data-Driven Solutions
+Data Scientist | PhD in Computational Physics | AI & Deep Learning for Geospatial & GPS Data
 
 ## 🚀 About Me
 
-- 🔭 Currently working on the Google Data Analytics certificate on Coursera
+- 🔭 Currently participating in Omdena’s AI challenge: Standardized Comparison of Urban Green Space Mapping Through Remote Sensing for Frankfurt, Germany
 - 🎓 Ph.D. in computational physics | Stony Brook University, C. N. Yang Institute for Theoretical Physics
 - ⚡️ I enjoy math, programming and exploring the world around us with data!
 - 📊 Check out my projects here ⤵️
 
 ## Projects
+- [Urban Green Space Mapping](https://dagshub.com/Omdena/FrankfurtGermanyChapter_UrbanGreenSpaceMappping/src/main)
 - [QCDark](https://github.com/asingal14/QCDark)
 - [Public Opinion Analysis on U.S. Education Spending with R](https://github.com/chengzwk/edu-spend-gss)
-- [Analysis of taxi GPS data in Porto](https://github.com/chengzwk/Porto-taxi)
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,pycharm,sklearn,mysql,r,anaconda,matlab,git,gitlab,vim,md,latex)](https://skillicons.dev)
@@ -20,12 +20,9 @@ Data Scientist | PhD in Computational Physics | Specializing in Data Analysis, M
 ## 🌱 Currently Exploring
 
   - 🌱 Expanding my data science skills set
-    - enhancing Machine Learning skill by revisiting the Machine Learning Specialization by DeepLearning.AI
-    - pursuing the Google Data Analytics certificate
-    - learning data wrangling systematically by reading *Python for Data Analysis*
-  - 📊 Building interesting projects
-    - Explore 1-2 more research questions on the General Social Survey (GSS) dataset with R
-  - Diving into Java and data structures
+    - recently completed the Deep Learning Specialization by DeepLearning.AI
+    - integrated colab, dagshub, and mlflow into my development work flow
+  - Diving into Java, data structure & algorithms
 
 ## 📖 Publications
 - Fully ab-initio all-electron calculation of dark matter--electron scattering in crystals with evaluation of systematic uncertainties ([article link](https://arxiv.org/abs/2306.14944) | [QCDark code link](https://github.com/asingal14/QCDark))
