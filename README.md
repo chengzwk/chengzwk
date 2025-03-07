@@ -11,6 +11,7 @@ Data Scientist | PhD in Computational Physics | AI & Deep Learning for Geospatia
 
 ## Projects
 - [Urban Green Space Mapping](https://dagshub.com/chengzwk/omdena-frankfurt-ugs-unet)
+<img width="629" alt="UGS_Prediction_Example" src="https://github.com/user-attachments/assets/462bcd17-f643-432d-a4e4-9e74a06624fe" />
 - [QCDark](https://github.com/asingal14/QCDark)
 - [Public Opinion Analysis on U.S. Education Spending with R](https://github.com/chengzwk/edu-spend-gss)
 
@@ -40,6 +41,7 @@ Thanks for stopping by! Let's connect and explore the dynamic world of data toge
 <!--
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
