@@ -9,9 +9,10 @@ Data Scientist | PhD in Computational Physics | AI & Deep Learning for Geospatia
 - ⚡️ I enjoy math, programming and exploring the world around us with data!
 - 📊 Check out my projects here ⤵️
 
+
 ## Projects
 - [Urban Green Space Mapping](https://dagshub.com/chengzwk/omdena-frankfurt-ugs-unet)
-<img width="629" alt="Example prediction from the Urban Green Space Mapping project" src="https://github.com/user-attachments/assets/462bcd17-f643-432d-a4e4-9e74a06624fe" />
+<img width="812" alt="Urban Green Space Mapping Prediction Example" src="https://github.com/user-attachments/assets/bc73fa29-7b10-43d0-91a6-afa15adbe2c4" />
 <br>
 
 - [QCDark](https://github.com/asingal14/QCDark)
