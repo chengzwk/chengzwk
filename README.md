@@ -4,16 +4,16 @@
 
 - 🔭 Recently completed Omdena’s AI challenge: Standardized Comparison of Urban Green Space Mapping Through Remote Sensing for Frankfurt, Germany
 - 🎓 Ph.D. in physics | Stony Brook University, C. N. Yang Institute for Theoretical Physics
-- ⚡️ I enjoy math, programming and exploring the world around us with data!
+- ⚡️ I enjoy programming, math and exploring the world around us with data!
 - 📊 Check out my projects here ⤵️
 
 
 ## Projects
 - [Urban Green Space Mapping](https://dagshub.com/chengzwk/omdena-frankfurt-ugs-unet)
-<img width="812" alt="Urban Green Space Mapping Prediction Example" src="https://github.com/user-attachments/assets/bc73fa29-7b10-43d0-91a6-afa15adbe2c4" />
+<img width="812" alt="Model Prediction on Frankfurt Urban Green Space" src="https://github.com/chengzwk/omdena-frankfurt-ugs-unet/blob/main/report/unet_from_scratch/Predictions%20on%20Frankfurt%20images.png?raw=true" />
 <br>
 
-- [QCDark](https://github.com/asingal14/QCDark)
+- [QCDark](https://github.com/asingal14/QCDark)  
 - [Public Opinion Analysis on U.S. Education Spending with R](https://github.com/chengzwk/edu-spend-gss)
 
 ## Tech Stack
