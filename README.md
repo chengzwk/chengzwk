@@ -1,11 +1,9 @@
 ## Hi, I'm Cheng! 👋
 
-Data Scientist | PhD in Computational Physics | AI & Deep Learning for Geospatial & GPS Data
-
 ## 🚀 About Me
 
-- 🔭 Currently participating in Omdena’s AI challenge: Standardized Comparison of Urban Green Space Mapping Through Remote Sensing for Frankfurt, Germany
-- 🎓 Ph.D. in computational physics | Stony Brook University, C. N. Yang Institute for Theoretical Physics
+- 🔭 Recently completed Omdena’s AI challenge: Standardized Comparison of Urban Green Space Mapping Through Remote Sensing for Frankfurt, Germany
+- 🎓 Ph.D. in physics | Stony Brook University, C. N. Yang Institute for Theoretical Physics
 - ⚡️ I enjoy math, programming and exploring the world around us with data!
 - 📊 Check out my projects here ⤵️
 
